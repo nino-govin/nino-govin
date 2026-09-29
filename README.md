@@ -93,6 +93,6 @@ LLMs and image generation, purely as a hobby: I enjoy pushing the hardware and h
 ## Fun facts
 
 - **Co-maintainer:** Sherlock, my cat (and my profile picture! he is so cute)
-- **When I'm not coding** grinding osu!mania, a rhythm game
+- **When I'm not coding:** grinding osu!mania, a rhythm game
 
 <a href="https://osu.ppy.sh/u/xTS_"><img src="https://osu-sig.s23.moe/card?user=xTS_&mode=mania&lang=en&blur=6&round_avatar=true&animation=true&hue=200&w=1000&h=582" /></a>
