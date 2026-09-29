@@ -86,7 +86,7 @@ No dedicated machine, it's my personal gaming PC.
 
 LLMs and image generation, purely as a hobby: I enjoy pushing the hardware and hunting for optimizations.
 
-Currently contemplating whether to integrate Jev/Laya (small decision taking model) in my projects/workflows or not. It could simplify a lot of repetitive tasks but it is still quite inaccurate for now (at least for production)
+Currently contemplating whether to integrate Jev/[Laya](https://huggingface.co/convaiinnovations/laya) (small decision taking model) in my projects/workflows or not. It could simplify a lot of repetitive tasks but it is still quite inaccurate for now (at least for production).
 
 </details>
 
