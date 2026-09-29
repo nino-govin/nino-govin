@@ -44,7 +44,7 @@ I like understanding systems as a whole: design, integration, deployment, and th
 - **Takima hackathon** *(3rd of 14 teams, 2026)*: semantic search across technical talks, indexed from audio only, sourced answers from a knowledge graph. Frontend, UX and system design, 36 hours.
 - **TinyX** *(EPITA, team of 14)*: distributed micro-blogging platform on Kubernetes. Owned the search service in Java / Quarkus on Elasticsearch.
 - **Quiz Master** *(EPITA, team of 4)*: real-time multiplayer quiz game, hexagonal architecture, Valkey, RabbitMQ, Prometheus, Grafana.
-- **HighFive!** *(EPITA)*: collaborative platform where personal ideas become group projects. Product framing, UX/UI redesign, design system.
+- [**HighFive!**](https://github.com/plic-mti-highfive) *(EPITA)*: collaborative platform where personal ideas become group projects. Product framing, UX/UI redesign, design system.
 - **Tenexa** *(internship, 2025-2026)*: B2B marketplace for refurbished IT equipment, fullstack in a team of 7. Also technical mentor and jury member at a React Native hackathon for students.
 
 ---
