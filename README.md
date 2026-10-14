@@ -17,7 +17,7 @@ Final-year student at **EPITA** (MSc-level engineering degree, *Multimedia & Inf
 I like understanding systems as a whole: design, integration, deployment, and the project and team work around them.
 
 - **Looking for:** a 6-month end-of-studies internship in **web / fullstack engineering**, with project-management scope
-- **Where:** Europe, Asia or Canada
+- **Where:** Europe (except France, Belgium, Luxembourg), Asia or Canada
 - **When:** from **February 2027**
 - **Languages:** French (native), English (C1, TOEIC 950)
 
